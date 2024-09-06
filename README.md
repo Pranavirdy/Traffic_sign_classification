@@ -1,18 +1,25 @@
 # Traffic_sign_classification
-Overview
+#Overview
 This project creates and trains a deep convolutional neural network from scratch, with the task of classifying German traffic signs using the Traffic Sign Dataset. The trained model is subsequently tested on traffic signs found on the web.
 
 
-Dependencies
+#Dependencies
 This project requires Python 3.5 and the following Python libraries installed:
 
 Jupyter
+
 NumPy
+
 SciPy
+
 scikit-learn
+
 TensorFlow
+
 PIL
+
 OpenCV
+
 Dataset
 
 
