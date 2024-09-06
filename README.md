@@ -6,12 +6,19 @@ This project creates and trains a deep convolutional neural network from scratch
 # Dependencies
 This project requires Python 3.5 and the following Python libraries installed:
 Jupyter
+
 NumPy
+
 SciPy
+
 scikit-learn
+
 TensorFlow
+
 PIL
+
 OpenCV
+
 Dataset
 
 
