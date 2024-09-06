@@ -5,21 +5,13 @@ This project creates and trains a deep convolutional neural network from scratch
 
 # Dependencies
 This project requires Python 3.5 and the following Python libraries installed:
-
 Jupyter
-
 NumPy
-
 SciPy
-
 scikit-learn
-
 TensorFlow
-
 PIL
-
 OpenCV
-
 Dataset
 
 
@@ -27,7 +19,7 @@ This project uses the Traffic Sign Dataset. A pickled version that has images re
 
 For dataset augmentation, run python aug.py
 
-How to run
+# How to run
 You can step through the Jupyter Notebook at Model_training.ipynb.
 
 Pre-trained model
