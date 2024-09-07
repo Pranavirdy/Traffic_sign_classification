@@ -1,6 +1,6 @@
 # Traffic_sign_classification
 # Overview
-This project creates and trains a deep convolutional neural network from scratch, with the task of classifying German traffic signs using the Traffic Sign Dataset. The trained model is subsequently tested on traffic signs found on the web.
+This project creates and trains a deep convolutional neural network from scratch, with the task of classifying traffic signs using the Traffic Sign Dataset. The trained model is subsequently tested on traffic signs found on the web.
 
 
 # Dependencies
